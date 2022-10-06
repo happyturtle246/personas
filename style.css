@@ -1,0 +1,39 @@
+body {
+  background-color: lavender;
+}
+
+img {
+  width: 60rem;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+h1 {
+  color: indigo;
+  font-size: 400%;
+  font-family: 'Avenir', sans-serif;
+  text-align: center;
+}
+
+h2 {
+  color: indigo;
+  font-size: 230%;
+  font-family: 'Avenir', sans-serif;
+  text-align: center;
+}
+p {
+  font-family: Arial;
+  margin: auto;
+  width: 950px; 
+  padding: 10px;
+  line-height: 135%;
+}
+
+li {
+  font-family: Arial;
+  margin: auto;
+  width: 950px; 
+  padding: 10px;
+  line-height: 135%;
+}
